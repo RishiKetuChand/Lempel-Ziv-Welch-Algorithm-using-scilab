@@ -1,4 +1,4 @@
-# Lempel-Ziv-Welch-Algorithm-using-scilab
+# Lempel-Ziv-Welch compression algorithm-using-scilab
 # Note: The input sequence should be given in between a pair of "Inverted commas"
 # What is Lempel–Ziv–Welch (LZW) Algorithm ?
 
